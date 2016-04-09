@@ -1,0 +1,13 @@
+
+<rooms>
+    <location id="0">
+        <dialog id="0">
+            <choice>
+            </choice>
+            <choice>
+            </choice>
+            <choice>
+            </choice>
+        </dialog>
+    </location>
+</rooms>
