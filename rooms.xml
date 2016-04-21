@@ -1,13 +1,30 @@
 
 <rooms>
     <location id="0">
-        <dialog id="0">
-            <choice>
+        <event id="0">
+            <message>
+                There's a house by the side of the road.
+            </message>
+            <choice event="1">
+                Walk to the front door.
             </choice>
-            <choice>
+            <choice event="2">
+                Walk around to the back.
             </choice>
-            <choice>
+            <choice event="">
+                Keep going.
             </choice>
-        </dialog>
+        </event>
+        <event id="1">
+            <message>
+                The door is locked.
+            </message>
+            <choice event="3">
+                Break it down.
+            </choice>
+            <choice event="4">
+                Try to pick the lock.
+            </choice>
+        </event>
     </location>
 </rooms>

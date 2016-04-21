@@ -1,0 +1,11 @@
+single activity for story
+another activity for combat?
+
+layout: 
+    one pane for story/choices, -- empty while walking
+    one for inventory etc. -- always displayed
+    one for walking progress -- fills up, full when interacting with story
+
+InventoryItem
+Companion
+LearnedSkill (interactions with story mode only)

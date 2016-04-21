@@ -1,0 +1,7 @@
+There is a different view for combat that hides everything else.
+
+Your character and your familiar are each be combat units.  
+
+Each potential attack/interaction is its own small bar/button element.
+
+There's a scrolling window of combat history.
